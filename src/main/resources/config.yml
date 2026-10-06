@@ -1,0 +1,10 @@
+# Language file to use, as named in Minecraft (ja_jp, ko_kr, zh_cn, de_de, ...).
+# The file is downloaded from Mojang's official servers for the running Minecraft version
+# and saved under plugins/DiscordSRVJa/lang/.
+language: ja_jp
+
+# Translate death messages sent to Discord.
+death-messages: true
+
+# Translate advancement titles sent to Discord.
+advancements: true
