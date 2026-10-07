@@ -12,7 +12,7 @@ Minecraft servers only know English, so DiscordSRV posts `Steve was slain by Zom
 
 ## Requirements
 
-- Paper 26.2 or newer (tested on Paper 26.2)
+- Paper 26.2 or newer (tested on Paper 26.2 and 26.3)
 - DiscordSRV 1.30 or newer
 - Internet access from the server on first start (to download the language file)
 
